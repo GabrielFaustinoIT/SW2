@@ -9,8 +9,7 @@ using System.Threading.Tasks;
 using TP01.Command;
 using TP01.Entidades;
 
-//Brenno Barbosa Bezerra CB3007219
-//Diego Pereira Gonzalez Natalo CB3005585
+﻿//Gabriel Faustino CB3005399
 
 namespace TP01
 {
