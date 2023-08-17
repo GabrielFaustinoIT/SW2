@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-//Douglas Willian CB3005348
-//João Vitor Gino CB3005488
+﻿//Gabriel Faustino CB3005399
 namespace WebTrab01
 {
     class BookList
