@@ -6,8 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
-//Douglas Willian CB3005348
-//João Vitor Gino CB3005488
+﻿//Gabriel Faustino CB3005399
 namespace WebTrab01
 {
     public class Startup
