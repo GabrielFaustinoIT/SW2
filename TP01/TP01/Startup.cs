@@ -13,8 +13,7 @@ using System.Threading.Tasks;
 using TP01.Command;
 using TP01.Entidades;
 
-//Brenno Barbosa Bezerra CB3007219
-//Diego Pereira Gonzalez Natalo CB3005585
+ï»¿//Gabriel Faustino CB3005399
 
 namespace TP01
 {
@@ -59,7 +58,7 @@ namespace TP01
                 endpoints.MapRazorPages();
 
                 Author autor1 = new Author("John Green", "green@gmail.com", 'M');
-                Author autor2 = new Author("Antoine de Saint-Exupéry", "antoine@gmail.com", 'M');
+                Author autor2 = new Author("Antoine de Saint-ExupÃ©ry", "antoine@gmail.com", 'M');
                 Author autor3 = new Author("J. K. Rowling", "jk@gmail.com", 'F');
                 Book livro1 = new Book("A culpa e das estrelas", autor1, 29.99, 3);
                 Book livro2 = new Book("O Pequeno Principe", autor2, 59.99, 3);
@@ -121,7 +120,7 @@ namespace TP01
         private Task LivrosParaLer(HttpContext context)
         {
             Author autor1 = new Author("John Green", "green@gmail.com", 'M');
-            Author autor2 = new Author("Antoine de Saint-Exupéry", "antoine@gmail.com", 'M');
+            Author autor2 = new Author("Antoine de Saint-ExupÃ©ry", "antoine@gmail.com", 'M');
             Author autor3 = new Author("J. K. Rowling", "jk@gmail.com", 'F');
             Book livro1 = new Book("A culpa e das estrelas", autor1, 29.99, 3);
             Book livro2 = new Book("O Pequeno Principe", autor2, 59.99, 3);
