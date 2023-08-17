@@ -7,8 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-//Douglas Willian CB3005348
-//João Vitor Gino CB3005488
+﻿//Gabriel Faustino CB3005399
 namespace WebTrab01
 {
     public class Program
